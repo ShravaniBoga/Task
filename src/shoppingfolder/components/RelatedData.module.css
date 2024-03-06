@@ -1,0 +1,64 @@
+h1 {
+  margin-left: 200px;
+}
+.total {
+  display: flex;
+  justify-content: baseline;
+  margin-left: 200px;
+  padding: 40px;
+}
+
+.RelatedData {
+  display: flex;
+  justify-content: space-around;
+  width: 25%;
+  line-height: 25px;
+}
+h4 b {
+  display: block;
+  margin: 0 auto;
+  text-align: center; /* Center-align the text */
+}
+
+.view {
+  background-color: blue;
+  border: 1px solid lightblue;
+  color: aliceblue;
+  padding: 10px 80px;
+  margin: 20px;
+  border-radius: 10px;
+}
+.offer {
+  color: rgb(3, 94, 240);
+}
+.cost {
+  color: rgb(90, 86, 86);
+}
+.off {
+  color: red;
+}
+
+.tag {
+  display: flex;
+  justify-content: baseline;
+}
+.view:hover {
+  color: transparent;
+}
+
+.signup {
+  display: flex;
+  justify-content: first baseline;
+  margin: 30px;
+}
+h3 {
+  margin-left: 200px;
+}
+.button {
+  margin-left: 550px;
+  background-color: blue;
+  border: 1px solid lightblue;
+  color: aliceblue;
+  padding: 10px 30px;
+  border-radius: 10px;
+}

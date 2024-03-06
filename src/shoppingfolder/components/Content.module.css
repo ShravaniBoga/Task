@@ -1,0 +1,48 @@
+.main {
+  display: flex;
+  justify-content: space-around;
+  width: 70%;
+  margin: 10px 200px;
+  align-items: center;
+}
+.num {
+  display: flex;
+  justify-content: center;
+  padding: auto;
+}
+
+.content {
+  padding: 50px;
+  font-size: 16px;
+  line-height: 24px;
+}
+.choosy {
+  background-color: orange;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  align-items: center;
+  padding: 3px;
+  border-radius: 3px;
+  margin: 5px;
+  color: white;
+}
+.show {
+  margin: 3px;
+  color: rgb(13, 132, 244);
+}
+.view {
+  background-color: blue;
+  border: 1px solid lightblue;
+  color: aliceblue;
+  padding: 10px 40px;
+  margin: 20px;
+  border-radius: 10px;
+}
+
+.semirating {
+  background-color: rgb(139, 205, 224);
+  margin: 10px;
+  padding: 40px 20px;
+  border-radius: 20px;
+}
